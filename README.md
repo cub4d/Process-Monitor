@@ -1,5 +1,5 @@
-ProcessMonitor
-==============
+Process Monitor
+===============
 
 Process monitor for Linux.
 
